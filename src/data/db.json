@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "6e06",
+      "title": "Meow",
+      "content": "Cześć ludzie (i inne koty też)! 🐱\nPiszę tego posta z mojego ulubionego miejsca — parapetu, gdzie słońce grzeje, a klawiatura pachnie człowiekiem. To tylko test... ale ważny test. Sprawdzam, czy mogę dzielić się moimi przemyśleniami, mruczeniami i codziennymi przygodami w świecie ludzi.\n\nDziś:\n\n    Obudziłem człowieka o 4:37 rano. Bo mogłem.\n\n    Przewróciłem doniczkę. Zasłużyła.\n\n    Leżałem w 7 różnych miejscach. Nigdzie nie było idealnie.\n\n    Patrzyłem się intensywnie w ścianę. Z jakiegoś powodu spanikowali.\n\nTen blog to moje miejsce. Moje królestwo.\nMiau, i niech serwery będą zawsze ciepłe. 🐾\n\nP.S. Jeśli czytasz ten post, zostaw komentarz. Ale nie za dużo capsem, nie lubię krzyków.",
+      "comments": [
+        "Meow meow"
+      ]
+    },
+    {
+      "id": "b5c5",
+      "title": "Meow",
+      "content": "Koty lubią mówić meow meow",
+      "comments": [
+        "wow fajnie"
+      ]
+    },
+    {
+      "id": "1d22",
+      "title": "Meow",
+      "content": "Koty mówią meow",
+      "comments": [
+        "fajnie"
+      ]
+    }
+  ]
+}
